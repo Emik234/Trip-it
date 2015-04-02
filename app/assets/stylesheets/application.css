@@ -72,36 +72,36 @@ html, body, #map-canvas {
     }
   }
 
-#new-trip-form {
-  border:3px solid red;
-  width:400px;
-  height:400px;
-  background-color: blue;
-}
+  #new-trip-form {
+    border:3px solid red;
+    width:400px;
+    height:400px;
+    background-color: blue;
+  }
 
-header{
- border-top: solid 1px white;
- border-bottom: solid 2px white;
- background-color:#E0F5FF;
- background-position: cover;
- width:98%;
-}
-
-
-#cheapest-station{
-  width:500px;
-  float:left;
-
-}
-
-#cheapest-stations{
-  width:300px;
-  float:left;
-}
+  header{
+   border-top: solid 1px white;
+   border-bottom: solid 2px white;
+   background-color:#E0F5FF;
+   background-position: cover;
+   width:100%;
+  }
 
 
-#cheapest-station-list{
- /* margin:0;
-  padding:0;*/
+  #cheapest-station{
+    width:500px;
+    float:left;
 
-}
+  }
+
+  #cheapest-stations{
+    width:300px;
+    float:left;
+  }
+
+
+  #cheapest-station-list{
+   /* margin:0;
+    padding:0;*/
+
+  }
